@@ -1,6 +1,6 @@
-###Olga Belikova
+### Olga Belikova
 
-**phone:** __*+375(44)5592800*__ **email:** __*lakshmy712@mail.ru*__
+__phone:__ __*+375(44)5592800*__ __email:__ __*lakshmy712@mail.ru*__
 
 I *love to study* something new all the time. I am very *sensitive, emotional* and *creative*. My *highest values* are **harmony, kindness, beauty** and **peace**, and my *dream* is **to make this world a peaceful, harmonious and beautiful place**.
 
@@ -17,6 +17,7 @@ I *love to study* something new all the time. I am very *sensitive, emotional* a
 * _BEM_ - Basic
 
 **My code examples:**
+
 *A Good function constructor for model*
 
 ```
@@ -84,7 +85,7 @@ All my __experience__ includes just some __projects from the courses__ I attende
 1. [HTML - CSS](https://gitlab.com/olgazed/volha_belikava/tree/HTML_CSS_Task1/HTML_CSS_Task1)
 1. [HTML - CSS - JS](https://gitlab.com/olgazed/volha_belikava/tree/HTML_CSS_Task2_JS_Task3/Hometasks/HTML_CSS_Task2_JS_Task3)
 
-_The repository on GitLab is Private, access can be granted upon request._
+_(The repository on GitLab is Private, access can be granted upon request.)_
 
 **Education:**
 * HTML Academy
