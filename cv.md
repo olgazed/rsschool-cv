@@ -84,7 +84,7 @@ All my __experience__ includes just some __projects from the courses__ I attende
 1. [Canvas and animation](https://github.com/olgazed/Canvas-Animation)
 1. [React](https://gitlab.com/olgazed/volha_belikava/tree/React_Task_2/React_Task2)
 1. [HTML - CSS](https://gitlab.com/olgazed/volha_belikava/tree/HTML_CSS_Task1/HTML_CSS_Task1)
-1. [HTML - CSS - JS](https://gitlab.com/olgazed/volha_belikava/tree/HTML_CSS_Task2_JS_Task3/Hometasks/HTML_CSS_Task2_JS_Task3)__
+1. [HTML - CSS - JS](https://gitlab.com/olgazed/volha_belikava/tree/HTML_CSS_Task2_JS_Task3/Hometasks/HTML_CSS_Task2_JS_Task3)  
 _(The repository on GitLab is Private, access can be granted upon request.)_
 
 **Education:**
@@ -100,5 +100,5 @@ _(The repository on GitLab is Private, access can be granted upon request.)_
   * English language and literature
 * Life and work in London, 2005 - 2006
 * Moscow High School of Social and Economic Sciences, 2006 - 2007
-  * English for IELTS, practical psychology__
+  * English for IELTS, practical psychology  
   Since then I have been using English in my work.
