@@ -1,11 +1,11 @@
-### Olga Belikova
+## Olga Belikova
 
 __phone:__ __*+375(44)5592800*__ __email:__
  __*lakshmy712@mail.ru*__
 
 I *love to study* something new all the time. I am very *sensitive, emotional* and *creative*. My *highest values* are **harmony, kindness, beauty** and **peace**, and my *dream* is **to make this world a peaceful, harmonious and beautiful place**.
 
-**My skills:**
+### My skills:
 * _English_ - Upper-Intermediate - Advanced
 * _HTML_ - Intermediate
 * _CSS_ - Intermediate
@@ -17,7 +17,7 @@ I *love to study* something new all the time. I am very *sensitive, emotional* a
 * _Webpack_ - Basic
 * _BEM_ - Basic
 
-**My code examples:**
+### My code examples:
 
 *A Good function constructor for model*
 
@@ -78,7 +78,7 @@ const Card = ({card}) => (
 export default Card;
 ```
 
-All my __experience__ includes just some __projects from the courses__ I attended:
+### Experience:
 1. [HTML - CSS](https://github.com/olgazed/CSS)
 1. [SASS](https://github.com/olgazed/SASS)
 1. [Canvas and animation](https://github.com/olgazed/Canvas-Animation)
@@ -87,7 +87,7 @@ All my __experience__ includes just some __projects from the courses__ I attende
 1. [HTML - CSS - JS](https://gitlab.com/olgazed/volha_belikava/tree/HTML_CSS_Task2_JS_Task3/Hometasks/HTML_CSS_Task2_JS_Task3)  
 _(The repository on GitLab is Private, access can be granted upon request.)_
 
-**Education:**
+### Education:
 * HTML Academy
 * Codecademy
 * GeekBrains
@@ -95,7 +95,7 @@ _(The repository on GitLab is Private, access can be granted upon request.)_
 * SoloLearn
 * EPAM
 
-**English**
+### English:
 * Minsk State Linguistic University, 1999 - 2004
   * English language and literature
 * Life and work in London, 2005 - 2006
