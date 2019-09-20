@@ -1,6 +1,7 @@
 ### Olga Belikova
 
-__phone:__ __*+375(44)5592800*__ __email:__ __*lakshmy712@mail.ru*__
+__phone:__ __*+375(44)5592800*__ __email:__
+ __*lakshmy712@mail.ru*__
 
 I *love to study* something new all the time. I am very *sensitive, emotional* and *creative*. My *highest values* are **harmony, kindness, beauty** and **peace**, and my *dream* is **to make this world a peaceful, harmonious and beautiful place**.
 
@@ -83,8 +84,7 @@ All my __experience__ includes just some __projects from the courses__ I attende
 1. [Canvas and animation](https://github.com/olgazed/Canvas-Animation)
 1. [React](https://gitlab.com/olgazed/volha_belikava/tree/React_Task_2/React_Task2)
 1. [HTML - CSS](https://gitlab.com/olgazed/volha_belikava/tree/HTML_CSS_Task1/HTML_CSS_Task1)
-1. [HTML - CSS - JS](https://gitlab.com/olgazed/volha_belikava/tree/HTML_CSS_Task2_JS_Task3/Hometasks/HTML_CSS_Task2_JS_Task3)
-
+1. [HTML - CSS - JS](https://gitlab.com/olgazed/volha_belikava/tree/HTML_CSS_Task2_JS_Task3/Hometasks/HTML_CSS_Task2_JS_Task3)__
 _(The repository on GitLab is Private, access can be granted upon request.)_
 
 **Education:**
@@ -100,4 +100,5 @@ _(The repository on GitLab is Private, access can be granted upon request.)_
   * English language and literature
 * Life and work in London, 2005 - 2006
 * Moscow High School of Social and Economic Sciences, 2006 - 2007
-  * English for IELTS, practical psychology
+  * English for IELTS, practical psychology__
+  Since then I have been using English in my work.
