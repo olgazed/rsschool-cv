@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <title>My CV</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400i,600,600i,700,900&display=swap" rel="stylesheet">
+    <base target="_blank">
+  </head>
+  
+  <body>
+    <section class="about">
+      <div class="info">
+      	<div>
+          <h2>Olga Belikova</h2>
+          <p><strong>phone:</strong> <strong><em>+375(44)5592800</em></strong></p>
+          <p><strong>email:</strong> <strong><em>lakshmy712@mail.ru</em></strong></p>
+        </div>
+        <img src="me.jpg" alt="A smiling me">
+      </div>
+      <p>
+        I love to study something new all the time. I am very sensitive, emotional and creative. My highest values are harmony, kindness, beauty and peace, and my dream is to make this world a peaceful, harmonious and beautiful place.
+      </p>
+    </section>
+    <section class="skills">
+      <h3>My skills:</h3>
+      <ul>
+      	<li>
+      	  <strong>English</strong> - <em>Upper-Intermediate - Advanced</em>
+      	</li>
+      	<li>
+      	  <strong>HTML</strong> - <em>Intermediate</em>
+      	</li>
+      	<li>
+      	  <strong>CSS</strong> - <em>Intermediate</em>
+      	</li>
+      	<li>
+      	  <strong>SCSS</strong> - <em>Basic - Intermediate</em>
+      	</li>
+      	<li>
+      	  <strong>Photoshop</strong> - <em>Basic - Intermediate</em>
+      	</li>
+      	<li>
+      	  <strong>Git</strong> - <em>Basic</em>
+      	</li>
+      	<li>
+      	  <strong>JavaScript</strong> - <em>Basic</em>
+      	</li>
+      	<li>
+      	  <strong>React</strong> - <em>Basic</em>
+      	</li>
+      	<li>
+      	  <strong>Webpack</strong> - <em>Basic</em>
+      	</li>
+      	<li>
+      	  <strong>BEM</strong> - <em>Basic</em>
+      	</li>
+      </ul>
+      <h3>My code examples:</h3>
+      <div class="code">
+      	<p>A Good function constructor for model:</p>
+        <pre>
+          <code>
+    const Good = (function () {
+      let counter = 0;
+      return function Good(category, price, imgPath, amount, name) {
+        this.id = ++counter;
+        this.category = '' + category;
+        this.price = parseInt(price);
+        this.imgPath = '' + imgPath;
+        this.amount = parseInt(amount);
+        this.name = '' + name;
+        this.description = '';
+        Object.defineProperty(this, 'id', { writable: false });
+        Object.preventExtensions(this);
+      };
+    }());
+
+    Object.defineProperty(Good, 'id',
+    { writable: false, enumerable: true });
+    Object.preventExtensions(Good);
+
+    Good.prototype.setDescription = function (description) {
+      this.description = description;
+      return this;
+    };
+
+    Good.prototype.addUnit = function (value) {
+      this.amount += value || 1;
+      return this;
+    };
+
+    Good.prototype.reduceUnit = function (value) {
+      if (this.amount > 0) {
+        this.amount -= value || 1;
+        return this;
+      }
+    };
+          </code>
+        </pre>
+      </div>
+      <h3>Experience:</h3>
+      <ol>
+      	<li>
+      	  <a href="https://github.com/olgazed/CSS">HTML - CSS</a>
+      	</li>
+      	<li>
+      	  <a href="https://github.com/olgazed/SASS">SASS</a>
+      	</li>
+      	<li>
+      	  <a href="https://github.com/olgazed/Canvas-Animation">Canvas and Animation</a>
+      	</li>
+      	<li>
+      	  <a href="https://gitlab.com/olgazed/volha_belikava/tree/React_Task_2/React_Task2">React</a>
+      	</li>
+      	<li>
+      	  <a href="https://gitlab.com/olgazed/volha_belikava/tree/HTML_CSS_Task1/HTML_CSS_Task1">HTML - CSS</a>
+      	</li>
+      	<li>
+      	  <a href="https://gitlab.com/olgazed/volha_belikava/tree/HTML_CSS_Task2_JS_Task3/Hometasks/HTML_CSS_Task2_JS_Task3">HTML - CSS - JS</a>
+      	</li>
+      </ol>
+      <p>
+      	<em>The repository on GitLab is Private, access can be granted upon request.</em>
+      </p>
+      <h3>Education:</h3>
+      <ul>
+      	<li>
+      		<a href="https://htmlacademy.ru/profile/id644977">HTML Academy</a>
+      	</li>
+      	<li>
+      		<a href="https://www.codecademy.com/profiles/olgazed">Codecademy</a>
+      	</li>
+      	<li>
+      		<a href="https://geekbrains.ru/users/2579684">GeekBrains</a>
+      	</li>
+      	<li>
+      		<a href="https://ru.hexlet.io/u/olgaz">Hexlet</a>
+      	</li>
+      	<li>
+      		<a href="https://www.sololearn.com/Profile/10611257">SoloLearn</a>
+      	</li>
+      	<li>
+      		<a href="https://training.by/UserProfile#!/Main/">EPAM</a>
+      	</li>
+      </ul>
+      <h3>English:</h3>
+      <ul>
+      	<li>Minsk State Linguistic University, 1999 - 2004
+      	  <ul>
+      	  	<li>English language and literature</li>
+      	  </ul>
+      	</li>
+      	<li>Life and work in London, 2005 - 2006</li>
+      	<li>Moscow High School of Social and Economic Sciences, 2006 - 2007
+      	  <ul>
+      	  	<li>English for IELTS, practical psychology</li>
+      	  </ul>
+      	</li>
+      </ul>
+      <p>Since then I have been using English in my work.</p>
+    </section>
+  </body>
+
+</html>
