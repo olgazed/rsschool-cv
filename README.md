@@ -1,1 +1,1 @@
-# [rsschool-cv](https://olgazed.github.io/rsschool-cv/cv)
+# [My CV](https://olgazed.github.io/rsschool-cv/cv)
